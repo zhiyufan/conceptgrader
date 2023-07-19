@@ -1,0 +1,357 @@
+{"name": "wrong_4_001.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_002.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "-"}
+{"name": "wrong_4_003.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "-"}
+{"name": "wrong_4_004.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1. Comparison operation is wrong (assignment)\r\n2. Swap operation is wrong - invalid variable\r\n3. Did not return the new list"}
+{"name": "wrong_4_005.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_006.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_007.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "- "}
+{"name": "wrong_4_008.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_009.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "careless in loop range"}
+{"name": "wrong_4_010.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_011.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "Even though list is iterated twice, the method of iteration is wrong, hence no marks for list iteration"}
+{"name": "wrong_4_012.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "Even though list is iterated twice, the method of iteration is wrong, hence no marks for list iteration"}
+{"name": "wrong_4_013.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Return value is wrong"}
+{"name": "wrong_4_014.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_015.py", "score": 55, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Student uses Selection sort method to find the smallest element for each iteration instead of swapping\r\n2. No swapping is done\r\n3. The return value is wrong (sorted in ascending order)\r\n4. Syntax error in line 8"}
+{"name": "wrong_4_016.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1.  Comparison compares both the gender and the age\r\n2. No swapping is done\r\n3. Return value is wrong because of the comparison which takes into account gender"}
+{"name": "wrong_4_017.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_018.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "missing double loop, no comparison, no temp value "}
+{"name": "wrong_4_019.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_020.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "no new list and sorting is done wrongly"}
+{"name": "wrong_4_021.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "array not reversed and minor syntax error"}
+{"name": "wrong_4_022.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "knows the has to compare but does it wrongly, no temp but removes the element"}
+{"name": "wrong_4_023.py", "score": 45, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Iterate target is wrong (syntax error => compile error)\r\n2. Comparison is wrong because it takes into account gender\r\n3. Return value is wrong "}
+{"name": "wrong_4_024.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_025.py", "score": 70, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "same as wrong_4_022 entirely with extra array return declared"}
+{"name": "wrong_4_026.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_027.py", "score": 55, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Comparison is wrong because it takes into account gender \r\n2. Out of range error because comparison of the current tuple element starts from index 1\r\n3. No swap operation \r\n4. Return value is wrong"}
+{"name": "wrong_4_028.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "comparison done but only done in the original list itself, no usage of temp value"}
+{"name": "wrong_4_029.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. Return value is wrong"}
+{"name": "wrong_4_030.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Student used merged sort and the rough idea of the algorithm seems to be correct"}
+{"name": "wrong_4_031.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_032.py", "score": 65, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_033.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "forgot to add () for reverse() method if not pass all test case"}
+{"name": "wrong_4_034.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_035.py", "score": 15, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_036.py", "score": 70, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_037.py", "score": 25, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "lambda used but print instaed of return"}
+{"name": "wrong_4_038.py", "score": 0, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_039.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": " 1. Comparison takes into account gender\r\n2. No swapping\r\n3. Return value is wrong"}
+{"name": "wrong_4_040.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "-"}
+{"name": "wrong_4_041.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_042.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_043.py", "score": 55, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Second iteration target is new list instead of the old list\r\n2. No swapping done \r\n3. Return value is wrong e.g for input 2"}
+{"name": "wrong_4_044.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_045.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "\r\n1. No swapping\r\n2. Return value is wrong for empty list"}
+{"name": "wrong_4_046.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_047.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_048.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "forgot to reverse the list "}
+{"name": "wrong_4_049.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_050.py", "score": 70, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "never include return final value but final array is wrong order"}
+{"name": "wrong_4_051.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_052.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_053.py", "score": 80, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Syntax error when appending to list, if not correct"}
+{"name": "wrong_4_054.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "forgot to reverse the list "}
+{"name": "wrong_4_055.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "-"}
+{"name": "wrong_4_056.py", "score": 90, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_057.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": NaN}
+{"name": "wrong_4_058.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_059.py", "score": 50, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No comparison done between current tuple and next tuple\r\n2. No temp variable to swap the value of two elements "}
+{"name": "wrong_4_060.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": NaN}
+{"name": "wrong_4_061.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_062.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "-"}
+{"name": "wrong_4_063.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Swap operation in the wrong loop \r\n2. Return value is wrong"}
+{"name": "wrong_4_064.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_065.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "careless variable naming"}
+{"name": "wrong_4_066.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": NaN}
+{"name": "wrong_4_067.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Return value is wrong + built-in sort"}
+{"name": "wrong_4_068.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_069.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_070.py", "score": 40, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "\r\n1. Iterate through the list once only \r\n2. Comparison is correct  \r\n3. No swap is done \r\n4. The return value is wrong + syntax error"}
+{"name": "wrong_4_071.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": NaN}
+{"name": "wrong_4_072.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Forgot to declare variables at the start"}
+{"name": "wrong_4_073.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "-"}
+{"name": "wrong_4_074.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_075.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_076.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_077.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_078.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_079.py", "score": 25, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "lambda used  but wrongly"}
+{"name": "wrong_4_080.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "built-in sort"}
+{"name": "wrong_4_081.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "print instead of returning"}
+{"name": "wrong_4_082.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Return value is wrong"}
+{"name": "wrong_4_083.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "New list is printed instead of returned"}
+{"name": "wrong_4_084.py", "score": 50, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. did not return the list"}
+{"name": "wrong_4_085.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "New list is printed instead of returned"}
+{"name": "wrong_4_086.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_087.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_088.py", "score": 40, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Iterate through the list once \r\n2. No swapping done\r\n3. Tried to use recursion but it will lead to stack overflow and return value is wrong"}
+{"name": "wrong_4_089.py", "score": 55, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. Swap operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_090.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. Swap operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_091.py", "score": 0, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "-"}
+{"name": "wrong_4_092.py", "score": 45, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Iterate target for inner for loop is wrong\r\n2. No swapping is done \r\n3. Comparison missing condition (skip if same index)\r\n4. Return value is wrong"}
+{"name": "wrong_4_093.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_094.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_095.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Return value is wrong + built-in sort"}
+{"name": "wrong_4_096.py", "score": 25, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "lambda used but no reverse "}
+{"name": "wrong_4_097.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_098.py", "score": 80, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "1. Iteration target is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_099.py", "score": 55, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Comparison is wrong\r\n2. No swapping done \r\n3. Return value is wrong"}
+{"name": "wrong_4_100.py", "score": 65, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "second loop is used wrongly,  idea is there return value of None is wrong "}
+{"name": "wrong_4_101.py", "score": 90, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_102.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "as per grading scheme"}
+{"name": "wrong_4_103.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Return value is wrong"}
+{"name": "wrong_4_104.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "1. Did not iterate twice\r\n2. Comparison operation is wrong\r\n3. Swap operation is wrong\r\n4. Return value is wrong"}
+{"name": "wrong_4_105.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. No swapping done \r\n2. Return value is wrong "}
+{"name": "wrong_4_106.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "nothing is returned, loop done wrongly, comparison not done properly due to wrong loop but displayed removal and appending"}
+{"name": "wrong_4_107.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "-"}
+{"name": "wrong_4_108.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_109.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "no return statement"}
+{"name": "wrong_4_110.py", "score": 45, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "logic is wrong completely"}
+{"name": "wrong_4_111.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_112.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "built-in sort"}
+{"name": "wrong_4_113.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_114.py", "score": 65, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. No swapping done using temp variable\r\n2. Return value is wrong"}
+{"name": "wrong_4_115.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "No swapping"}
+{"name": "wrong_4_116.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_117.py", "score": 0, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "1. Use the built in sort with invalid params\r\n2. Did not return the list"}
+{"name": "wrong_4_118.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_119.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "-"}
+{"name": "wrong_4_120.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "no double looping, the return result becomes a tuple instead of list,  comparison is done but wrongly compared without changing first"}
+{"name": "wrong_4_121.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping done \r\n3. Return value is wrong "}
+{"name": "wrong_4_122.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "-"}
+{"name": "wrong_4_123.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_124.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "-"}
+{"name": "wrong_4_125.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "order is wrong"}
+{"name": "wrong_4_126.py", "score": 50, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Syntax errors + forgot to declare variables at the start"}
+{"name": "wrong_4_127.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "loop is done wrongly, accessing the array entirely wrongly, comparison is done wrongly"}
+{"name": "wrong_4_128.py", "score": 80, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Undefined invariable in swap and return operation"}
+{"name": "wrong_4_129.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Syntax errors + forgot to declare variables at the start"}
+{"name": "wrong_4_130.py", "score": 50, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. No swapping done \r\n2. Did not return the correct new list (syntax error)"}
+{"name": "wrong_4_131.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "good re use of helper but order wrong"}
+{"name": "wrong_4_132.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_133.py", "score": 65, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Idea is there but no new array initialised and cause function to endless loop"}
+{"name": "wrong_4_134.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "1. Did not iterate through the list twice \r\n2. No swapping \r\n3. Did not return the correct new list (syntax error)"}
+{"name": "wrong_4_135.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "-"}
+{"name": "wrong_4_136.py", "score": 65, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Did not return the new list"}
+{"name": "wrong_4_137.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong - undefined variable\r\n2. Did not return "}
+{"name": "wrong_4_138.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. No swapping\r\n2. Did not return the list"}
+{"name": "wrong_4_139.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "forget return statement and wrong order of array"}
+{"name": "wrong_4_140.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_141.py", "score": 65, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_142.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_143.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_144.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_145.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_146.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_147.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_148.py", "score": 15, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "no double loop, comparison don?t access the array, no temp considered, but used pop and extend"}
+{"name": "wrong_4_149.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_150.py", "score": 30, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "double loop not used, comparison is done correctly here but the temp "}
+{"name": "wrong_4_151.py", "score": 90, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_152.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "pop used with wrong argument "}
+{"name": "wrong_4_153.py", "score": 25, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "lambda used wrongly and order is wrong"}
+{"name": "wrong_4_154.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "comparison done correctly but ended code with reverse and not reverse(), array would be already descending if no reverse (syntax wrong) hence fail all test case, but "}
+{"name": "wrong_4_155.py", "score": 80, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "\r\n1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_156.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "-"}
+{"name": "wrong_4_157.py", "score": 70, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "comparison is done wrongly "}
+{"name": "wrong_4_158.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_159.py", "score": 40, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "1. Comparison is wrong \r\n2. No swapping \r\n3. Return value is wrong"}
+{"name": "wrong_4_160.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Return value is wrong + built-in sort"}
+{"name": "wrong_4_161.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_162.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_163.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "declared tuple as return result and used variable names badly"}
+{"name": "wrong_4_164.py", "score": 0, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "-"}
+{"name": "wrong_4_165.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Swap operation is wrong + return value is wrong"}
+{"name": "wrong_4_166.py", "score": 80, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Swap operation is wrong + return value is wrong (invalid method -removal )"}
+{"name": "wrong_4_167.py", "score": 90, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "syntax error at end returning sort instead of sortt"}
+{"name": "wrong_4_168.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "careless variable naming"}
+{"name": "wrong_4_169.py", "score": 80, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "array not reversed"}
+{"name": "wrong_4_170.py", "score": 90, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_171.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "lambda used wrongly, but thought to comparison is shown"}
+{"name": "wrong_4_172.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_173.py", "score": 65, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_174.py", "score": 65, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_175.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Sort operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_176.py", "score": 40, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "Idea and execution is correct"}
+{"name": "wrong_4_177.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly, and the correct output is produced."}
+{"name": "wrong_4_178.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "built-in sort"}
+{"name": "wrong_4_179.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_180.py", "score": 50, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping\r\n2. Did not return"}
+{"name": "wrong_4_181.py", "score": 75, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "New list is printed instead of being returned, minor mistake"}
+{"name": "wrong_4_182.py", "score": 25, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "lambda is correct but print instead of returning value"}
+{"name": "wrong_4_183.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "1. Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap\r\n2. Did not return the new list"}
+{"name": "wrong_4_184.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "careless indentation for return statement"}
+{"name": "wrong_4_185.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_186.py", "score": 50, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. No swapping is done\r\n2. did not return the new list"}
+{"name": "wrong_4_187.py", "score": 55, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "1. No swapping is done\r\n2. Return value is wrong"}
+{"name": "wrong_4_188.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Return value is wrong"}
+{"name": "wrong_4_189.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_190.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_191.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Iteration of the list is wrong (while loop will not terminate and did not use nested loop)\r\n2. comparison is correct \r\n3. no swapping \r\n4. Return value is wrong (will not terminate because of the while loop)"}
+{"name": "wrong_4_192.py", "score": 15, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function + wrong return value"}
+{"name": "wrong_4_193.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_194.py", "score": 55, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "\r\n1. Did not iterate through the list twice\r\n2. Comparison operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_195.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "has majority of the concept encompassed but the value appended to the new array is wrong "}
+{"name": "wrong_4_196.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_197.py", "score": 25, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Did not iterate twice\r\n2. comparison is correct \r\n3. no swapping \r\n4. Returned the wrong list"}
+{"name": "wrong_4_198.py", "score": 25, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Did not iterate twice\r\n2. comparison is correct \r\n3. no swapping \r\n4. Returned the wrong list"}
+{"name": "wrong_4_199.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "1. Did not iterate twice\r\n2. comparison is correct \r\n3. no swapping \r\n4. Returned the old list"}
+{"name": "wrong_4_200.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_201.py", "score": 0, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "-"}
+{"name": "wrong_4_202.py", "score": 40, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Idea is correct, except sorting order is wrong"}
+{"name": "wrong_4_203.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Return value is wrong"}
+{"name": "wrong_4_204.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "-"}
+{"name": "wrong_4_205.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "careless usage of variable prior to declaration"}
+{"name": "wrong_4_206.py", "score": 50, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. comparison is correct \r\n2. no swapping \r\n3. Return value is wrong for empty array"}
+{"name": "wrong_4_207.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "Merge is done wrongly, slicing does not work and the loop is executed wrongly"}
+{"name": "wrong_4_208.py", "score": 40, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_209.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Swap operation is wrong - wrong loop\r\n2. return value is wrong"}
+{"name": "wrong_4_210.py", "score": 25, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Did not return the new list"}
+{"name": "wrong_4_211.py", "score": 55, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Idea is correct, syntax errors present"}
+{"name": "wrong_4_212.py", "score": 55, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Idea is correct, syntax errors present"}
+{"name": "wrong_4_213.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_214.py", "score": 40, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "Return value is wrong + built-in sort"}
+{"name": "wrong_4_215.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_216.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Return value is wrong + built-in sort"}
+{"name": "wrong_4_217.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_218.py", "score": 75, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "Idea and execution correct."}
+{"name": "wrong_4_219.py", "score": 30, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "1. comparison is wrong (not based on age only) \r\n2. no swapping \r\n3. Return value is wrong "}
+{"name": "wrong_4_220.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Library sort function was used correctly, producing the correct output"}
+{"name": "wrong_4_221.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_222.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_223.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "no comparison shown, no removal and idea showing the replacement in the array. "}
+{"name": "wrong_4_224.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Did not iterate twice\r\n2. Comparison operation is wrong\r\n3. no swapping \r\n4. Return value is wrong"}
+{"name": "wrong_4_225.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "-"}
+{"name": "wrong_4_226.py", "score": 40, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_227.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. return value is wrong"}
+{"name": "wrong_4_228.py", "score": 40, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_229.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1. Did not iterate the list twice\r\n2. Comparison operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_230.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1. Did not iterate the list twice\r\n2. Comparison operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_231.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_232.py", "score": 70, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "Compiled all the age and sorted them, then find the corresponding the item to the ordered age to find descending, innovative solution"}
+{"name": "wrong_4_233.py", "score": 55, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Swap operation is wrong\r\n3. Did not return the new list"}
+{"name": "wrong_4_234.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "-"}
+{"name": "wrong_4_235.py", "score": 25, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "lambda used wrongly and order is wrong"}
+{"name": "wrong_4_236.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "No swapping"}
+{"name": "wrong_4_237.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly, and the correct output is produced"}
+{"name": "wrong_4_238.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "minor syntax errors. Logic all there but 'a' and 'list' variables were carelessly added"}
+{"name": "wrong_4_239.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_240.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "built-in sort"}
+{"name": "wrong_4_241.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping \r\n3. Return value is wrong "}
+{"name": "wrong_4_242.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "idea is there for comparison. However did not consider double loop and the values returned in the new array is completely off"}
+{"name": "wrong_4_243.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_244.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping\r\n3. Return value is wrong"}
+{"name": "wrong_4_245.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping \r\n3. Return value is wrong "}
+{"name": "wrong_4_246.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_247.py", "score": 90, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "Idea is there for everything, but the removal of the biggest item in the original lst is wrongly done, instead of tuple to remove, the input was just the age"}
+{"name": "wrong_4_248.py", "score": 65, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_249.py", "score": 80, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_250.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_251.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong (assignment)\r\n2. Return value is wrong"}
+{"name": "wrong_4_252.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "-"}
+{"name": "wrong_4_253.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "idea is there but careless reassignment of variable to access int when intended to access array instead"}
+{"name": "wrong_4_254.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_255.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "-"}
+{"name": "wrong_4_256.py", "score": 80, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Small syntax error"}
+{"name": "wrong_4_257.py", "score": 15, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "1. Did not iterate twice\r\n2. Did not compare\r\n3. No swapping \r\n4. Return value is wrong"}
+{"name": "wrong_4_258.py", "score": 70, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "planning to use sorted list of age to do comparison and add  from original list accordingly but executed wrongly"}
+{"name": "wrong_4_259.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_260.py", "score": 65, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not swap\r\nReturn value is wrong"}
+{"name": "wrong_4_261.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_262.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not swap\r\n"}
+{"name": "wrong_4_263.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function + wrong return value"}
+{"name": "wrong_4_264.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_265.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. Does not know how to use temp to swap\r\n2. Return value is wrong"}
+{"name": "wrong_4_266.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. No swapping \r\n2. Comparison is wrong after the first iteration\r\n3. Return value is wrong + did not initialise the new list"}
+{"name": "wrong_4_267.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "-"}
+{"name": "wrong_4_268.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_269.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_270.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "used smth like binary search but carelessly executed"}
+{"name": "wrong_4_271.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate twice\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_272.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Almost correct execution for merge sort"}
+{"name": "wrong_4_273.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_274.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_275.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_276.py", "score": 70, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "remove and append and remove wrong element"}
+{"name": "wrong_4_277.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_278.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. Did not iterate twice \r\n2. Return value is wrong"}
+{"name": "wrong_4_279.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "tried in situ swap of array but assignment done wrongly"}
+{"name": "wrong_4_280.py", "score": 25, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "lambda used "}
+{"name": "wrong_4_281.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "double loop but comparison of variable done wrongly "}
+{"name": "wrong_4_282.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_283.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_284.py", "score": 80, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "minor syntax error to access oldest[1]. Same as a few other scripts using sorted age "}
+{"name": "wrong_4_285.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "1. Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap\r\n2. Did not return the new list"}
+{"name": "wrong_4_286.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function + wrong return value"}
+{"name": "wrong_4_287.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda is used and the correct output would be produced"}
+{"name": "wrong_4_288.py", "score": 65, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Did not return the new list"}
+{"name": "wrong_4_289.py", "score": 70, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Swap operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_290.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "-"}
+{"name": "wrong_4_291.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_292.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "-"}
+{"name": "wrong_4_293.py", "score": 70, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Swap operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_294.py", "score": 70, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1. Comparison operation is wrong \r\n2. Swap operation is wrong\r\n3. Return value is wrong"}
+{"name": "wrong_4_295.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "-"}
+{"name": "wrong_4_296.py", "score": 55, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Wrong comparison\r\n2. No swapping\r\n3. Wrong return value"}
+{"name": "wrong_4_297.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "-"}
+{"name": "wrong_4_298.py", "score": 75, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Did not return the new list"}
+{"name": "wrong_4_299.py", "score": 30, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "Code in error due to placement of lambda, did not reverse lambda operation. he just used lambda which is smart but not sure if accepted"}
+{"name": "wrong_4_300.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly, and the correct output is produced"}
+{"name": "wrong_4_301.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_302.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_303.py", "score": 25, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "lambda used, print instead of return "}
+{"name": "wrong_4_304.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_305.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "1. Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap\r\n2. Did not return the new list"}
+{"name": "wrong_4_306.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_307.py", "score": 75, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "-"}
+{"name": "wrong_4_308.py", "score": 65, "Grade purely based on your opinion ": 75, "Reason for deducting marks": "1. Did not use temp variable to swap\r\n2. Wrong return value"}
+{"name": "wrong_4_309.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_310.py", "score": 30, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Double loop done wrongly but thought of comparison is shown albeit wrongly as well. In situ placement of array with no new list array to return"}
+{"name": "wrong_4_311.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "double loop but comparison of variable done wrongly "}
+{"name": "wrong_4_312.py", "score": 35, "Grade purely based on your opinion ": 35, "Reason for deducting marks": "-"}
+{"name": "wrong_4_313.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_314.py", "score": 40, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Return value is wrong"}
+{"name": "wrong_4_315.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "built-in sort"}
+{"name": "wrong_4_316.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Forgot indentation for the removal and appending"}
+{"name": "wrong_4_317.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. Comparison operation is wrong\r\n2. No swapping\r\n3. Return value is wrong"}
+{"name": "wrong_4_318.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Student calls the built-in sort function to sort the tuples based on the age instead of iterating through the array twice and manually swap"}
+{"name": "wrong_4_319.py", "score": 0, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "Lambda was used correctly and the correct output is produced"}
+{"name": "wrong_4_320.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function"}
+{"name": "wrong_4_321.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "should have used while lst instead of for loop"}
+{"name": "wrong_4_322.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_323.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "1. No swapping\r\n2. Return value is wrong"}
+{"name": "wrong_4_324.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "Double loop done wrongly and return statements were wrong"}
+{"name": "wrong_4_325.py", "score": 45, "Grade purely based on your opinion ": 45, "Reason for deducting marks": "Double loop done wrongly and return statements were wrong"}
+{"name": "wrong_4_326.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "1. Swap operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_327.py", "score": 65, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "loop variable 'I' used wrongly"}
+{"name": "wrong_4_328.py", "score": 55, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "sorting is wrong and the comparison is off"}
+{"name": "wrong_4_329.py", "score": 80, "Grade purely based on your opinion ": 65, "Reason for deducting marks": "variable name spelled wrongly, undecalred variable k used but idea is there"}
+{"name": "wrong_4_330.py", "score": 75, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "No swapping"}
+{"name": "wrong_4_331.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "-"}
+{"name": "wrong_4_332.py", "score": 80, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "\r\n1. Comparison operation is wrong\r\n2. Return value is wrong"}
+{"name": "wrong_4_333.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_334.py", "score": 55, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1. While loop condition wrong\r\n2. No swapping\r\n3. Return value is wrong"}
+{"name": "wrong_4_335.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_336.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "did not account for empty list but everything else is good. Recursion used here but empty list will result in wrong ouput"}
+{"name": "wrong_4_337.py", "score": 65, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "1.  No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_338.py", "score": 100, "Grade purely based on your opinion ": 100, "Reason for deducting marks": "-"}
+{"name": "wrong_4_339.py", "score": 65, "Grade purely based on your opinion ": 55, "Reason for deducting marks": "1.  No swapping\r\n2. Wrong return value"}
+{"name": "wrong_4_340.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_341.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_342.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "Uses the built in sort function + wrong return value"}
+{"name": "wrong_4_343.py", "score": 40, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1. Did not iterate through the list twice\r\n2. No swapping - use the built-in sort\r\n3. Return value is wrong"}
+{"name": "wrong_4_344.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_345.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": "1. Did not iterate twice\r\n2. Comparison operation is wrong\r\n3. No swapping\r\n4. Did not return new list"}
+{"name": "wrong_4_346.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_347.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_348.py", "score": 25, "Grade purely based on your opinion ": 25, "Reason for deducting marks": "-"}
+{"name": "wrong_4_349.py", "score": 30, "Grade purely based on your opinion ": 30, "Reason for deducting marks": NaN}
+{"name": "wrong_4_350.py", "score": 50, "Grade purely based on your opinion ": 50, "Reason for deducting marks": "1. No comparison\r\n2. No swapping"}
+{"name": "wrong_4_351.py", "score": 15, "Grade purely based on your opinion ": 15, "Reason for deducting marks": "just wrong"}
+{"name": "wrong_4_352.py", "score": 90, "Grade purely based on your opinion ": 90, "Reason for deducting marks": "Return value is wrong"}
+{"name": "wrong_4_353.py", "score": 0, "Grade purely based on your opinion ": 0, "Reason for deducting marks": "-"}
+{"name": "wrong_4_354.py", "score": 50, "Grade purely based on your opinion ": 40, "Reason for deducting marks": "1.  Did not iterate through the list twice\r\n2. No swapping\r\n3. Uses the built-in sort"}
+{"name": "wrong_4_355.py", "score": 80, "Grade purely based on your opinion ": 80, "Reason for deducting marks": "-"}
+{"name": "wrong_4_356.py", "score": 80, "Grade purely based on your opinion ": 70, "Reason for deducting marks": "removed i instead of remove maximum"}
+{"name": "wrong_4_357.py", "score": 80, "Grade purely based on your opinion ": 60, "Reason for deducting marks": "removed i instead of remove maximum, indentation also resulted in pprogram being wrong"}

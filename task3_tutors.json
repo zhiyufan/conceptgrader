@@ -1,0 +1,300 @@
+{"name": "wrong_3_001.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_002.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_003.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_004.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_005.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_007.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_008.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_009.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_010.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_011.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_012.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_013.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_014.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_015.py", "score": 90, "Unnamed: 2": "should use result = result + [i] but used result += result + [i]", "Other remarks": NaN}
+{"name": "wrong_3_016.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_017.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_018.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_019.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_020.py", "score": 40, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_021.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_022.py", "score": 90, "Unnamed: 2": "inconsistent variable names", "Other remarks": NaN}
+{"name": "wrong_3_023.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_024.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution -> just need to convert set into list, but there is no looping involved, so unsure on how to grade this "}
+{"name": "wrong_3_025.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_026.py", "score": 60, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_027.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_028.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_029.py", "score": 90, "Unnamed: 2": "typo in function name", "Other remarks": NaN}
+{"name": "wrong_3_030.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Used set(), return type is wrong, maybe 20/100?"}
+{"name": "wrong_3_031.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_032.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_033.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_034.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_035.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_036.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_037.py", "score": 90, "Unnamed: 2": "should use () for function call but used []", "Other remarks": NaN}
+{"name": "wrong_3_038.py", "score": 90, "Unnamed: 2": "should return list but returned tuple", "Other remarks": NaN}
+{"name": "wrong_3_039.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Used set(), return type is wrong, maybe 20/100?"}
+{"name": "wrong_3_040.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_041.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_042.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution"}
+{"name": "wrong_3_043.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_044.py", "score": 70, "Unnamed: 2": "only checked adjacent elements + index error + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_045.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_046.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_047.py", "score": 70, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_048.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_049.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_050.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_051.py", "score": 80, "Unnamed: 2": "infinite loop + deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_052.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution "}
+{"name": "wrong_3_053.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_054.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_055.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_056.py", "score": 90, "Unnamed: 2": "should compare element with new list but compared old list with new list", "Other remarks": NaN}
+{"name": "wrong_3_057.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_058.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_059.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_060.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_061.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_062.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_063.py", "score": 90, "Unnamed: 2": "deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_064.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_065.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_066.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_067.py0", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution "}
+{"name": "wrong_3_068.py", "score": 70, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_069.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_070.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_071.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_072.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_073.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution"}
+{"name": "wrong_3_075.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_076.py", "score": 90, "Unnamed: 2": "list.reverse() returns None. Should return list instead of list.reverse()", "Other remarks": NaN}
+{"name": "wrong_3_077.py", "score": 90, "Unnamed: 2": "list.append() returns None. Should not use list = list.append()", "Other remarks": NaN}
+{"name": "wrong_3_078.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_079.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_080.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_081.py", "score": 90, "Unnamed: 2": "list.append() returns None. Should not use list = list.append()", "Other remarks": NaN}
+{"name": "wrong_3_082.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_083.py", "score": 70, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_084.py", "score": 45, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_085.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_086.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_087.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_088.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_089.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_090.py", "score": 90, "Unnamed: 2": "comparison is wrong. Should compare with the new list but compared against the old list", "Other remarks": NaN}
+{"name": "wrong_3_091.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_092.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_093.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_094.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_095.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_096.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_097.py", "score": 90, "Unnamed: 2": "deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_098.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_099.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_100.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": "Seems like result is technically correct? But may have been marked wrongly due to extra print statements or reverse() function"}
+{"name": "wrong_3_101.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_102.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_103.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_104.py", "score": 80, "Unnamed: 2": "returned in the first iteration + returned the wrong variable", "Other remarks": NaN}
+{"name": "wrong_3_105.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + returned in first iteration", "Other remarks": NaN}
+{"name": "wrong_3_106.py", "score": 80, "Unnamed: 2": "only checked adjacent elements + index error", "Other remarks": NaN}
+{"name": "wrong_3_107.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_108.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_109.py", "score": 80, "Unnamed: 2": "returned in the first iteration + deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_110.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_111.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_112.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_113.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_114.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_115.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_116.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_117.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": "Seems like result is technically correct? But may have been marked wrongly due to extra print statements or reverse() function"}
+{"name": "wrong_3_118.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_119.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_120.py", "score": 70, "Unnamed: 2": "should return list but returned tuple + index error + should add I but added list[i]", "Other remarks": NaN}
+{"name": "wrong_3_121.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_122.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_123.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_124.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_125.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_126.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_127.py", "score": 90, "Unnamed: 2": "index error", "Other remarks": NaN}
+{"name": "wrong_3_128.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_129.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_130.py", "score": 90, "Unnamed: 2": "deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_131.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_132.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_133.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_134.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_135.py", "score": 70, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_136.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_137.py", "score": 65, "Unnamed: 2": "did not use loop + index error", "Other remarks": NaN}
+{"name": "wrong_3_139.py", "score": 75, "Unnamed: 2": "did not add element to new list", "Other remarks": NaN}
+{"name": "wrong_3_140.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_141.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_142.py", "score": 70, "Unnamed: 2": "deleting element from list is wrong + returned in first iteration + recursion with no base case", "Other remarks": NaN}
+{"name": "wrong_3_143.py", "score": 70, "Unnamed: 2": "deleting element from list is wrong + returned in first iteration + recursion with no base case", "Other remarks": NaN}
+{"name": "wrong_3_144.py", "score": 80, "Unnamed: 2": "list.append() returns None. Should not use list = list.append() + pop() does not have brackets", "Other remarks": NaN}
+{"name": "wrong_3_145.py", "score": 90, "Unnamed: 2": "should use list.pop() but used list.pop", "Other remarks": NaN}
+{"name": "wrong_3_146.py", "score": 90, "Unnamed: 2": "pop() does not have brackets", "Other remarks": NaN}
+{"name": "wrong_3_147.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_148.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_149.py", "score": 90, "Unnamed: 2": "should use () for function call but used []", "Other remarks": NaN}
+{"name": "wrong_3_150.py", "score": 80, "Unnamed: 2": "list.remove() returns None. Should not use list = list.remove(). + Deleting element from list is wrong", "Other remarks": NaN}
+{"name": "wrong_3_151.py", "score": 80, "Unnamed: 2": "inconsistent variable names + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_152.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_153.py", "score": 80, "Unnamed: 2": "inconsistent variable names + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_154.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_155.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_156.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_157.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_158.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_159.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_160.py", "score": 90, "Unnamed: 2": "should use list.append(element) but used list.extend(element)", "Other remarks": NaN}
+{"name": "wrong_3_161.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_162.py", "score": 90, "Unnamed: 2": "should compare with new list but compared with old list", "Other remarks": NaN}
+{"name": "wrong_3_163.py", "score": 90, "Unnamed: 2": "try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_164.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_165.py", "score": 90, "Unnamed: 2": "only compared the first element", "Other remarks": NaN}
+{"name": "wrong_3_166.py", "score": 80, "Unnamed: 2": "should return list but returned set + did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_167.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_168.py", "score": 80, "Unnamed: 2": "should iterate over original list but iteratetd over all integers from 0 to len(lst) + try to concatenate list and integer", "Other remarks": NaN}
+{"name": "wrong_3_169.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_170.py", "score": 80, "Unnamed: 2": "used index as element + should use range(len(lst)) but used range(len(lst) + 1)", "Other remarks": NaN}
+{"name": "wrong_3_171.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_172.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_173.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_174.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_175.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_176.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_177.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_178.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_179.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_181.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_182.py", "score": 80, "Unnamed: 2": "index error (for empty list) + only compared with first element", "Other remarks": NaN}
+{"name": "wrong_3_183.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_184.py", "score": 80, "Unnamed: 2": "should compare with new list but compared with old list + list.append() returns None. Should not use list = list.append().", "Other remarks": NaN}
+{"name": "wrong_3_185.py", "score": 90, "Unnamed: 2": "list.append() returns None. Should not use list = list.append()", "Other remarks": NaN}
+{"name": "wrong_3_186.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_187.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_188.py", "score": 80, "Unnamed: 2": "inconsistent variable names + list.append() returns None. Should not use list = list.append()", "Other remarks": NaN}
+{"name": "wrong_3_189.py", "score": 25, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_190.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_191.py", "score": 90, "Unnamed: 2": "did not reset the flag value \"check\" to True after each iteration", "Other remarks": NaN}
+{"name": "wrong_3_193.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_194.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_195.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_197.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_198.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_199.py", "score": 70, "Unnamed: 2": "inconsistent variable names + should use () for functions but used [] + index error", "Other remarks": NaN}
+{"name": "wrong_3_200.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_201.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_202.py", "score": 90, "Unnamed: 2": "index error (for empty list)", "Other remarks": NaN}
+{"name": "wrong_3_203.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_204.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_205.py", "score": 70, "Unnamed: 2": "deleting element from list is wrong + index error + list.remove() has wrong syntax. Used remove.list()", "Other remarks": NaN}
+{"name": "wrong_3_206.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_207.py", "score": 80, "Unnamed: 2": "only compared adjacent elements + used index as element", "Other remarks": NaN}
+{"name": "wrong_3_208.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_209.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_210.py", "score": 80, "Unnamed: 2": "inconsistent variable names + list.append() returns None. Should not use list = list.append()", "Other remarks": NaN}
+{"name": "wrong_3_211.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_212.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_213.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_214.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_215.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_216.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_217.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_218.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_219.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_220.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_221.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_222.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_223.py", "score": 70, "Unnamed: 2": "inconsistent variable names + list.append() returns None. Should not use list = list.append() + should compare element with new list but compared element with old list", "Other remarks": NaN}
+{"name": "wrong_3_224.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_225.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_226.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_227.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_228.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_229.py", "score": 40, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_230.py", "score": 80, "Unnamed: 2": "list.append() returns None. Should not use list = list.append() + should compare element with new list but compared element with old list", "Other remarks": NaN}
+{"name": "wrong_3_231.py", "score": 80, "Unnamed: 2": "try to concatenate list with integer + use the same name for new list and original list", "Other remarks": NaN}
+{"name": "wrong_3_232.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_233.py", "score": 70, "Unnamed: 2": "list.append() returns None. Should not use list = list.append() + should compare element with new list but compared element with old list + should use list.count(element) == 0 but used list.count(element) == 1", "Other remarks": NaN}
+{"name": "wrong_3_234.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_235.py", "score": 90, "Unnamed: 2": "inconsistent variable names", "Other remarks": NaN}
+{"name": "wrong_3_236.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_237.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_238.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_239.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_240.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_241.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_242.py", "score": 80, "Unnamed: 2": "index error (for empty list) + should use \"if element in list\" but used \"if element in list == True\"", "Other remarks": NaN}
+{"name": "wrong_3_244.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_245.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_246.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_247.py", "score": 80, "Unnamed: 2": "try to concatenate list with integer + compared element with a list", "Other remarks": NaN}
+{"name": "wrong_3_248.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_249.py", "score": 90, "Unnamed: 2": "inconsistent variable names", "Other remarks": NaN}
+{"name": "wrong_3_250.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_251.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_252.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_253.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_254.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_255.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution, typo in list"}
+{"name": "wrong_3_256.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_257.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_258.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_259.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_260.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_261.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": "Used OrderedDict, technically correct? Perhaps 50/100 or even 100/100"}
+{"name": "wrong_3_262.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_263.py", "score": 100, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_264.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid Sol"}
+{"name": "wrong_3_265.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_266.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_267.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_268.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Valid solution"}
+{"name": "wrong_3_269.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Used OrderedDict, technically correct? Perhaps 50/100 or even 100/100"}
+{"name": "wrong_3_270.py", "score": 70, "Unnamed: 2": "inconsistent variable names + try to concatenate list with integer + should compare element with new list but compared element with old list", "Other remarks": NaN}
+{"name": "wrong_3_272.py", "score": 80, "Unnamed: 2": "defined new list as integer + index error (for empty list)", "Other remarks": NaN}
+{"name": "wrong_3_273.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_274.py", "score": 80, "Unnamed: 2": "defined new list as integer + should use list.append() but used list.append()", "Other remarks": NaN}
+{"name": "wrong_3_275.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_276.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": "Used set(), return type is wrong, maybe 20/100?"}
+{"name": "wrong_3_277.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_278.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_279.py", "score": 80, "Unnamed: 2": "should return list but returned tuple + tried to modify tuple", "Other remarks": NaN}
+{"name": "wrong_3_280.py", "score": 90, "Unnamed: 2": "should define list but defined tuple", "Other remarks": NaN}
+{"name": "wrong_3_281.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_282.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_283.py", "score": 0, "Unnamed: 2": NaN, "Other remarks": "Used set(), return type is wrong, maybe 20/100?"}
+{"name": "wrong_3_284.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_285.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_286.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_287.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_288.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_289.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_290.py", "score": 90, "Unnamed: 2": "inconsistent variable names", "Other remarks": NaN}
+{"name": "wrong_3_291.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_292.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_293.py", "score": 90, "Unnamed: 2": "used list operations but did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_294.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_295.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_296.py", "score": 60, "Unnamed: 2": "infinite loop because loop variable is not updated each iteration + loop condition should be \"x < len(lst)\" but used \"x < len(lst) + 1\" + condition should be \"if element not in new list\" but used \"if element in new list\" + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_3_297.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_298.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_299.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_300.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_301.py", "score": 80, "Unnamed: 2": "deleting element from list is wrong + index error", "Other remarks": NaN}
+{"name": "wrong_3_302.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_303.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_304.py", "score": 90, "Unnamed: 2": "should use list.append(element) but used list.extend(element)", "Other remarks": NaN}
+{"name": "wrong_3_305.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_3_306.py", "score": 75, "Unnamed: 2": "did not preserve element order in original list", "Other remarks": NaN}
+{"name": "wrong_3_307.py", "score": 75, "Unnamed: 2": "do not have return value", "Other remarks": NaN}
+{"name": "wrong_3_308.py", "score": 90, "Unnamed: 2": "returned in the first iteration. Should put return outside for loop", "Other remarks": NaN}

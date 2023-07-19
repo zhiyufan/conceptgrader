@@ -1,0 +1,108 @@
+{"name": "wrong_5_001.py", "score": 90, "Unnamed: 2": "loop condition", "Other remarks": NaN}
+{"name": "wrong_5_002.py", "score": 90, "Unnamed: 2": "typo", "Other remarks": NaN}
+{"name": "wrong_5_003.py", "score": 90, "Unnamed: 2": "top-k, not top-5", "Other remarks": NaN}
+{"name": "wrong_5_004.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_005.py", "score": 80, "Unnamed: 2": "should append largest element but appended last element + cannot handle k = 0", "Other remarks": NaN}
+{"name": "wrong_5_006.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_007.py", "score": 80, "Unnamed: 2": "compared element with k which does not make sense + did not slice at index k", "Other remarks": NaN}
+{"name": "wrong_5_008.py", "score": 90, "Unnamed: 2": "slicing index error", "Other remarks": NaN}
+{"name": "wrong_5_009.py", "score": 80, "Unnamed: 2": "inconsistent variable names + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_010.py", "score": 60, "Unnamed: 2": "should return top-k, remove unnecessary code", "Other remarks": NaN}
+{"name": "wrong_5_011.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_012.py", "score": 75, "Unnamed: 2": "tried to implement quick sort but wrong algorithm", "Other remarks": NaN}
+{"name": "wrong_5_013.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_014.py", "score": 75, "Unnamed: 2": "tried to implement quick sort but wrong algorithm", "Other remarks": NaN}
+{"name": "wrong_5_015.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_016.py", "score": 75, "Unnamed: 2": "tried to implement quick sort but wrong algorithm", "Other remarks": NaN}
+{"name": "wrong_5_017.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_018.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_019.py", "score": 80, "Unnamed: 2": "append before remove", "Other remarks": NaN}
+{"name": "wrong_5_020.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_021.py", "score": 70, "Unnamed: 2": "incorrec syntax, shouldn't use k as iter", "Other remarks": NaN}
+{"name": "wrong_5_022.py", "score": 80, "Unnamed: 2": "should use () for function call but used [] + inconsistent variable names", "Other remarks": NaN}
+{"name": "wrong_5_023.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_024.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_025.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_026.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_027.py", "score": 60, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_028.py", "score": 55, "Unnamed: 2": "infinite loop because did not remove largest element from original list + should append largest element but appended last element + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_029.py", "score": 30, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_030.py", "score": 85, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_031.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_032.py", "score": 90, "Unnamed: 2": "should append largest element but appended last element", "Other remarks": NaN}
+{"name": "wrong_5_033.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_034.py", "score": 90, "Unnamed: 2": "cannot handle k = 0", "Other remarks": NaN}
+{"name": "wrong_5_035.py", "score": 90, "Unnamed: 2": "k=0, should return []", "Other remarks": NaN}
+{"name": "wrong_5_036.py", "score": 90, "Unnamed: 2": "return [] when k = 0", "Other remarks": NaN}
+{"name": "wrong_5_037.py", "score": 90, "Unnamed: 2": "wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_038.py", "score": 65, "Unnamed: 2": "did not add element to new list + did not slice at index k", "Other remarks": NaN}
+{"name": "wrong_5_039.py", "score": 40, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_040.py", "score": 40, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_041.py", "score": 90, "Unnamed: 2": "did not add element to new list", "Other remarks": NaN}
+{"name": "wrong_5_042.py", "score": 80, "Unnamed: 2": "index error because of wrong loop condition + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_043.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_044.py", "score": 70, "Unnamed: 2": "loop target, remove/append should be in first loop", "Other remarks": NaN}
+{"name": "wrong_5_045.py", "score": 85, "Unnamed: 2": "while condition", "Other remarks": NaN}
+{"name": "wrong_5_046.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_047.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_048.py", "score": 70, "Unnamed: 2": "biggest should define in first loop, remove/append field problem", "Other remarks": NaN}
+{"name": "wrong_5_049.py", "score": 80, "Unnamed: 2": "access element by n not lst[n]", "Other remarks": NaN}
+{"name": "wrong_5_050.py", "score": 60, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_051.py", "score": 90, "Unnamed: 2": "append and remove element should be outside for loop", "Other remarks": NaN}
+{"name": "wrong_5_052.py", "score": 25, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_053.py", "score": 65, "Unnamed: 2": "did not remove element from original list + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_5_054.py", "score": 75, "Unnamed: 2": "did not remove element from original list", "Other remarks": NaN}
+{"name": "wrong_5_055.py", "score": 80, "Unnamed: 2": "incorrect place of greatest", "Other remarks": NaN}
+{"name": "wrong_5_056.py", "score": 90, "Unnamed: 2": "\"greatest = lst[0]\" should be outside for loop", "Other remarks": NaN}
+{"name": "wrong_5_057.py", "score": 75, "Unnamed: 2": "should return top-k in sort", "Other remarks": NaN}
+{"name": "wrong_5_058.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_059.py", "score": 85, "Unnamed: 2": "should append max(lst), not output of lst.remove()", "Other remarks": NaN}
+{"name": "wrong_5_060.py", "score": 80, "Unnamed: 2": "should compare each element with largest element but compared each element with first element + should update the largest element when the current element is larger but updated the largest element when the current element is smaller", "Other remarks": NaN}
+{"name": "wrong_5_061.py", "score": 90, "Unnamed: 2": "comparison should > biggest", "Other remarks": NaN}
+{"name": "wrong_5_062.py", "score": 90, "Unnamed: 2": "should return top-k, not top3", "Other remarks": NaN}
+{"name": "wrong_5_063.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_064.py", "score": 90, "Unnamed: 2": "deleting element from list inside for loop in wrong", "Other remarks": NaN}
+{"name": "wrong_5_065.py", "score": 80, "Unnamed: 2": "did not remove element from original list + try to concatenate list with integer", "Other remarks": NaN}
+{"name": "wrong_5_066.py", "score": 90, "Unnamed: 2": "compare error", "Other remarks": NaN}
+{"name": "wrong_5_067.py", "score": 55, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_068.py", "score": 65, "Unnamed: 2": "range error, should use remove instead of pop, should append max(lst)", "Other remarks": NaN}
+{"name": "wrong_5_069.py", "score": 80, "Unnamed: 2": "index error because of wrong loop condition + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_070.py", "score": 80, "Unnamed: 2": "index error because of wrong loop condition + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_071.py", "score": 80, "Unnamed: 2": "index error because of wrong loop condition + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_072.py", "score": 60, "Unnamed: 2": "should append before pop, counter incremented in incorrect place", "Other remarks": NaN}
+{"name": "wrong_5_073.py", "score": 90, "Unnamed: 2": "wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_074.py", "score": 60, "Unnamed: 2": "should append before pop, counter incremented in incorrect place", "Other remarks": NaN}
+{"name": "wrong_5_075.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_076.py", "score": 80, "Unnamed: 2": "index error because of wrong loop condition + wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_077.py", "score": 90, "Unnamed: 2": "should return new list", "Other remarks": NaN}
+{"name": "wrong_5_078.py", "score": 90, "Unnamed: 2": "append and remove element should be outside for loop", "Other remarks": NaN}
+{"name": "wrong_5_079.py", "score": 50, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_080.py", "score": 90, "Unnamed: 2": "terminate condition", "Other remarks": NaN}
+{"name": "wrong_5_081.py", "score": 70, "Unnamed: 2": "terminate condition, uncessary loop", "Other remarks": NaN}
+{"name": "wrong_5_082.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_083.py", "score": 90, "Unnamed: 2": "should return new list", "Other remarks": NaN}
+{"name": "wrong_5_084.py", "score": 15, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_085.py", "score": 85, "Unnamed: 2": "while condition", "Other remarks": NaN}
+{"name": "wrong_5_086.py", "score": 90, "Unnamed: 2": "typo", "Other remarks": NaN}
+{"name": "wrong_5_087.py", "score": 80, "Unnamed: 2": "inconsistent variable names + should check len(new list) < k but check len(original list) < k", "Other remarks": NaN}
+{"name": "wrong_5_088.py", "score": 80, "Unnamed: 2": "incorrect comparison, lst[j], lst[i] are enough, incorrect return slicing", "Other remarks": NaN}
+{"name": "wrong_5_089.py", "score": 85, "Unnamed: 2": "return indentation", "Other remarks": NaN}
+{"name": "wrong_5_090.py", "score": 90, "Unnamed: 2": "wrong slicing at index k", "Other remarks": NaN}
+{"name": "wrong_5_091.py", "score": 75, "Unnamed: 2": "did not remove element from original list", "Other remarks": NaN}
+{"name": "wrong_5_092.py", "score": 65, "Unnamed: 2": "argument of list.pop() should be index but used element + lack one layer of loop to sort the entire list", "Other remarks": NaN}
+{"name": "wrong_5_093.py", "score": 90, "Unnamed: 2": "should return top-k, not top3", "Other remarks": NaN}
+{"name": "wrong_5_094.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_095.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_096.py", "score": 25, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_097.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_098.py", "score": 75, "Unnamed: 2": "wrong recursion. New list is initialized to empty list in each recursion", "Other remarks": NaN}
+{"name": "wrong_5_099.py", "score": 25, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_100.py", "score": 80, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_101.py", "score": 90, "Unnamed: 2": "used the same name for new list and function, which caused the error", "Other remarks": NaN}
+{"name": "wrong_5_102.py", "score": 50, "Unnamed: 2": "should append max(lst), not output. Counter should increment. Should return new list", "Other remarks": NaN}
+{"name": "wrong_5_103.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_104.py", "score": 75, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_105.py", "score": 65, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_106.py", "score": 0, "Unnamed: 2": "used sort", "Other remarks": NaN}
+{"name": "wrong_5_107.py", "score": 90, "Unnamed: 2": NaN, "Other remarks": NaN}
+{"name": "wrong_5_108.py", "score": 90, "Unnamed: 2": "wrong loop condition. Should be \"while counter < k\" but used \"while counter <= k\"", "Other remarks": NaN}
